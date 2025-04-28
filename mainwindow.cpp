@@ -31,6 +31,8 @@ MainWindow::MainWindow(QWidget *parent)
     this->setFixedHeight(160);
     ui->tableWidget->hide();
     ui->tableWidget->resizeRowsToContents();   // 行高自适应
+    move(0,0);
+    installEventFilter(this);  // 安装事件过滤器
 }
 
 MainWindow::~MainWindow()
