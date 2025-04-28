@@ -21,14 +21,14 @@ MainWindow::MainWindow(QWidget *parent)
         auto pnp = this->height();
         if(ui->tableWidget->isHidden()){
             ui->tableWidget->show();
-            this->setFixedHeight(250);
+            this->setFixedHeight(330);
         }
         else{
             ui->tableWidget->hide();
-            this->setFixedHeight(130);
+            this->setFixedHeight(160);
         }
     });
-    this->setFixedHeight(130);
+    this->setFixedHeight(160);
     ui->tableWidget->hide();
     ui->tableWidget->resizeRowsToContents();   // 行高自适应
 }

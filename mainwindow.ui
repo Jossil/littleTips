@@ -11,10 +11,10 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>LittleTips</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <layout class="QVBoxLayout" name="verticalLayout" stretch="4,2,1,10,0">
+   <layout class="QVBoxLayout" name="verticalLayout" stretch="0,0,0,0,0">
     <item>
      <widget class="QTextEdit" name="textEdit">
       <property name="sizePolicy">
@@ -26,11 +26,11 @@
       <property name="maximumSize">
        <size>
         <width>16777215</width>
-        <height>50</height>
+        <height>80</height>
        </size>
       </property>
       <property name="styleSheet">
-       <string notr="true">font: 20pt &quot;Microsoft YaHei UI&quot;;</string>
+       <string notr="true">font: 12pt &quot;Microsoft YaHei UI&quot;;</string>
       </property>
      </widget>
     </item>
