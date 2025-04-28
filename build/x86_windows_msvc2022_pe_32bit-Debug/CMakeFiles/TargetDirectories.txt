@@ -1,0 +1,8 @@
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/littleTips.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/edit_cache.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/list_install_components.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/install.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/install/local.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/littleTips_autogen_timestamp_deps.dir
+D:/gitProject/littleTips/build/x86_windows_msvc2022_pe_32bit-Debug/CMakeFiles/littleTips_autogen.dir
